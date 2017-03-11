@@ -1,0 +1,4 @@
+name: CommandMonitoring
+version: 1.0
+main: net.simplyrin.commandmonitoring.Bungee
+author: SimplyRin
